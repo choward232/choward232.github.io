@@ -1,4 +1,4 @@
-## Welcome to choward232's GitHub
+## Welcome to choward232's github
 
 I am a sophomore at Stanford majoring in computer science. 
 
