@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+I am a sophomore at Stanford majoring in computer science. 
+
+Checkout my [linkedIn Profile here] (https://www.linkedin.com/in/christopher-howard-9aa380155/)
+
 You can use the [editor on GitHub](https://github.com/choward232/choward232.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
